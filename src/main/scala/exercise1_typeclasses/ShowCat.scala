@@ -1,4 +1,4 @@
-package exercise1
+package exercise1_typeclasses
 
 import cats.Show
 //import cats.implicits._

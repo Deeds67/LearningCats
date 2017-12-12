@@ -1,4 +1,4 @@
-package exercise1
+package exercise1_typeclasses
 
 trait Printable[A] {
   def format(value: A): String

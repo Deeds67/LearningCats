@@ -1,4 +1,4 @@
-package exercise1
+package exercise1_typeclasses
 
 import cats.syntax.eq._
 import cats.instances.int._    // for Eq
