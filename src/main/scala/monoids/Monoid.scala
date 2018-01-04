@@ -1,4 +1,4 @@
-package exercise2_monoids
+package monoids
 
 trait Semigroup[A] {
   def combine(a: A, b: A): A

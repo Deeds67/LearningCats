@@ -1,4 +1,4 @@
-package exercise2_monoids
+package monoids
 
 object SetMonoids {
   implicit def setUnionMonoid[A]: Monoid[Set[A]] =

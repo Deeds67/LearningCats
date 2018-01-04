@@ -1,4 +1,4 @@
-package exercise2_monoids
+package monoids
 
 object BooleanMonoids {
   val andBooleanMonoid: Monoid[Boolean] =

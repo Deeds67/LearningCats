@@ -1,4 +1,4 @@
-package exercise2_monoids
+package monoids
 
 import cats.instances.int._
 import cats.instances.option._

@@ -1,4 +1,4 @@
-package exercise3_functors
+package functors
 
 import cats.Functor
 import cats.implicits._
